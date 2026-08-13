@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 
-<h3>Cloud & DevOps</h3>
+<h3>Cloud</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
