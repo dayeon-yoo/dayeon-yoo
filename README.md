@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFF3C7,100:A8B77A&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F8EFC8,100:A9B77A&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55"/>
 
 </div>
 
