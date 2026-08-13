@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:c4e9d2,100:e8f3df&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55&desc=Backend%20%7C%20Cloud%20%7C%20Software%20Development&descSize=16&descAlignY=75&descColor=526057"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:c4e9d2,100:e8f3df&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55"/>
 
 </div>
 
@@ -48,10 +48,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
-
-<br/>
 
 <h2> Projects</h2>
 
