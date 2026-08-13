@@ -4,6 +4,14 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발과 클라우드 기술에 관심을 가지고 </li>프로젝트를 통해 API 개발, 데이터 처리 및 서비스 구축 경험을 쌓고 있습니다. </div> 
+        <a href=https://app.notion.com/p/396e27f44533801ebd4fd7aae4ae76f9?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= yoodayeon@icloud.com"> </a>
+         <a href=https://www.instagram.com/_yoodajjang> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_yoodajjang"> </a>
+         <a href=mailto:yoodayeon@icloud.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoodayeon@icloud.com"> </a>
+          </div><br>
+    <div align= "center">  </div> 
+    <h2 align="center"> Email </h2>
+<p align="center">
+  <Strong> yoodayeon@icloud.com </Strong>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
