@@ -1,42 +1,130 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:c4e9d2,100:d9eec9&height=120&text=Welcome%20to%20Dayeon's%20GitHub&animation=fadeIn&fontColor=232f24&fontSize=37" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발과 클라우드 기술에 관심을 가지고 </li>프로젝트를 통해 API 개발, 데이터 처리 및 서비스 구축 경험을 쌓고 있습니다. </div> 
-        <a href=https://app.notion.com/p/396e27f44533801ebd4fd7aae4ae76f9?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= yoodayeon@icloud.com"> </a>
-         <a href=https://www.instagram.com/_yoodajjang> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_yoodajjang"> </a>
-         <a href=mailto:yoodayeon@icloud.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoodayeon@icloud.com"> </a>
-          </div><br>
-    <div align= "center">  </div> 
-    <h2 align="center"> Email </h2>
-<p align="center">
-  <Strong> yoodayeon@icloud.com </Strong>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=social&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=social&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=social&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Node.js-339933?style=social&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Swift-F05138?style=social&logo=Swift&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=social&logo=MongoDB&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=social&logo=Amazon AWS&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br> 
-    <div style="text-align: left;">  </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayeon-yoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=dayeon-yoo&bg_color=180,d4e8e5,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeon-yoo&layout=compact&bg_color=180,d4e8e5,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:c4e9d2,100:e8f3df&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55&desc=Backend%20%7C%20Cloud%20%7C%20Software%20Development&descSize=16&descAlignY=75&descColor=526057"/>
+
+</div>
+
+<h2> About Me</h2>
+
+<p>
+백엔드 개발과 클라우드 기술에 관심을 가지고<br/>
+프로젝트를 통해 <b>API 개발 · 데이터 처리 · 서비스 구축</b> 경험을 쌓고 있습니다.
+</p>
+
+<p>
+문제를 구조적으로 바라보고, 효율적인 서비스를 만드는 개발자를 지향합니다.
+</p>
+
+<br/>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Backend</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+</p>
+
+<h3>Cloud & DevOps</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
+
+<h3>Languages & Tools</h3>
+
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</p>
+
+<br/>
+
+<h2> Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<b>🍽️ MenuWise</b><br/>
+AI 기반 메뉴 추천 서비스
+
+<br/><br/>
+
+<b>Backend</b><br/>
+FastAPI · SQLite · Pydantic · REST API
+
+<br/><br/>
+
+API 설계 및 DB 연동, AI 추천 기능 구현
+
+</td>
+
+<td width="50%">
+
+<b> Cloud Projects</b><br/>
+클라우드 기반 서비스 구축 및 실습
+
+<br/><br/>
+
+<b>Tech</b><br/>
+Azure · Docker · Kubernetes · Linux
+
+<br/><br/>
+
+컨테이너 환경 및 서버리스 서비스 실습
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2> GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dayeon-yoo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=34463a&text_color=526057&icon_color=7da58b&rank_icon=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeon-yoo&layout=compact&hide_border=true&bg_color=ffffff&title_color=34463a&text_color=526057"/>
+
+</div>
+
+<br/>
+
+<h2> Contact</h2>
+
+<p>
+<a href="mailto:yoodayeon@icloud.com">
+<img src="https://img.shields.io/badge/Email-yoodayeon%40icloud.com-6b7d70?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.notion.so/">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dayeon-yoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</a>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4e9d2,100:e8f3df&height=100&section=footer"/>
+
+</div>
