@@ -120,8 +120,3 @@ Azure · Docker · Kubernetes · Linux
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4e9d2,100:e8f3df&height=100&section=footer"/>
-
-</div>
