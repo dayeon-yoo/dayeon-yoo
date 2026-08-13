@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:c4e9d2,100:d9eec9&height=120&text=Hello%20World!&animation=fadeIn&fontColor=232f24&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:c4e9d2,100:d9eec9&height=120&text=Welcome%20to%20Dayeon's%20GitHub&animation=fadeIn&fontColor=232f24&fontSize=37" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발과 클라우드 기술에 관심을 가지고 </li>프로젝트를 통해 API 개발, 데이터 처리 및 서비스 구축 경험을 쌓고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=social&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
