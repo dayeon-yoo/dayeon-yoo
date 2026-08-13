@@ -1,7 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F8EFC8,100:A9B77A&height=170&section=header&text=DAYEON%20YOO&fontSize=42&fontColor=27352c&animation=fadeIn&fontAlignY=55"/>
-
+<div align= "center">
+  
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fdf6d2,100:e3e9d8&height=120&text=Welcome%20to%20Dayeon's%20GitHub&animation=fadeIn&fontColor=232f24&fontSize=40" />
+  
 </div>
 
 <h2> About Me</h2>
