@@ -13,7 +13,7 @@
 
 <br/>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <h3>Backend</h3>
 
@@ -52,7 +52,7 @@
 <tr>
 <td width="50%">
 
-<b>🍽️ MenuWise</b><br/>
+<b>MenuWise</b><br/>
 AI 기반 메뉴 추천 서비스
 
 <br/><br/>
